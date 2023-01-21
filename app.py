@@ -1,8 +1,3 @@
-# Top-100-Codes-Solution
-Top 100 codes of prep insta
-
-**Palindrome Number**
-```py
 def find_reverse(num):
     reverse = 0
 
@@ -22,4 +17,3 @@ if num == reverse_num:
     print("Palindrome")
 else:
     print("Not a palindrome")
-```
