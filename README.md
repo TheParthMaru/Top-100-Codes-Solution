@@ -2,6 +2,8 @@
 Top 100 codes of prep insta
 
 **Palindrome Number**
+
+_**Brute force approach**_
 ```py
 def find_reverse(num):
     reverse = 0
@@ -23,3 +25,5 @@ if num == reverse_num:
 else:
     print("Not a palindrome")
 ```
+
+Other approaches: String slicing, recursion
