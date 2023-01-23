@@ -12,8 +12,8 @@
 
 ## List of problems
 1. [Positive, negative or zero](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-01.md)
-2. [Even or odd]()
-3. [Sum of n natural number]()
+2. [Even or odd](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-02.md)
+3. [Sum of n natural number](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-03.md)
 4. [Greatest of two number]()
 5. [Greatest of three number]()
 6. [Leap year or not]()
