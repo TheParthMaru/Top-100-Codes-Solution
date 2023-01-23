@@ -22,4 +22,4 @@
 9. [Sum of digits of number](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-09.md)
 10. [Reverse of a number](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-10.md)
 11. [Palindrome number](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-11.md)
-12. [Armstrong number]()
+12. [Armstrong number](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-12.md)
