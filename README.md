@@ -6,4 +6,4 @@
 
 ## Basic Problems
 
-- List of all the basic level problems => ()
+- List of all the basic level problems => [](https://github.com/TheParthMaru/Top-100-Codes-Solution/tree/main/01.%20Basic%20Problems)
