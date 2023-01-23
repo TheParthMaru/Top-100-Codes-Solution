@@ -16,7 +16,7 @@
 3. [Sum of n natural number](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-03.md)
 4. [Greatest of two number](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-04.md)
 5. [Greatest of three number](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-05.md)
-6. [Leap year or not]()
+6. [Leap year or not](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-06.md)
 7. [Prime number]()
 8. [Prime number within a range]()
 9. [Sum of digits of number]()
