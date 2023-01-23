@@ -18,7 +18,7 @@
 5. [Greatest of three number](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-05.md)
 6. [Leap year or not](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-06.md)
 7. [Prime number](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-07.md)
-8. [Prime number within a range]()
+8. [Prime number within a range](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-08.md)
 9. [Sum of digits of number]()
 10. [Reverse of a number]()
 11. [Palindrome number]()
