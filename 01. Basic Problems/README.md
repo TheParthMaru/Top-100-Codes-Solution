@@ -12,4 +12,14 @@
 
 ## List of problems
 1. [Positive, negative or zero](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-01.md)
-2. []()
+2. [Even or odd]()
+3. [Sum of n natural number]()
+4. [Greatest of two number]()
+5. [Greatest of three number]()
+6. [Leap year or not]()
+7. [Prime number]()
+8. [Prime number within a range]()
+9. [Sum of digits of number]()
+10. [Reverse of a number]()
+11. [Palindrome number]()
+12. [Armstrong number]()
