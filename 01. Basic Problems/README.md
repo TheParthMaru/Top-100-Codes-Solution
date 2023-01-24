@@ -25,3 +25,4 @@
 12. [Armstrong number](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-12.md)
 13. [Armstrong number between two intervals](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-13.md)
 14. [Fibonacco series upto nth term](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-14.md)
+15. [Factorial of a number](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-15.md)
