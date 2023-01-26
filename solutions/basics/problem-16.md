@@ -47,3 +47,7 @@ n = int(input())
 
 print(pow(x, n))
 ```
+
+*Approach 4: Recursive approach*
+
+- Will do after studying recursion
