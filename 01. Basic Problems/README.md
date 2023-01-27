@@ -27,3 +27,4 @@
 14. [Fibonacco series upto nth term](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-14.md)
 15. [Factorial of a number](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-15.md)
 16. [Power of a number](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-16.md)
+17. [Factors of a number](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-17.md)
