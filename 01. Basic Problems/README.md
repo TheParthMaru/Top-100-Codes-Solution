@@ -30,3 +30,4 @@
 17. [Factors of a number](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-17.md)
 18. [Prime factors of a number](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-18.md)
 19. [Strong number](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-19.md)
+20. [Perfect number](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-20.md)
