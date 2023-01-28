@@ -32,3 +32,4 @@
 19. [Strong number](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-19.md)
 20. [Perfect number](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-20.md)
 21. [Perfect square](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-21.md)
+22. [Automorphic number](https://github.com/TheParthMaru/Top-100-Codes-Solution/blob/main/solutions/basics/problem-22.md)
